@@ -5,9 +5,11 @@ This project is from Udacity Deep Learning Foundation Nanodegree curriculum and 
 Clone the repository. Enter the project directory.
 
 Install the dependencies. 
+
 `pip3 install -r requirements.txt`
 
 Start the notebook server.
+
 `jupyter notebook`
 
 Click BikeRidership.ipynb
