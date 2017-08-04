@@ -1,6 +1,6 @@
 # What is this project?
 This project is from Udacity Deep Learning Foundation Nanodegree curriculum and has been reviewed by Udacity reviewer.
-More detailed descriptions can be found in the *#BikeRidership.ipynb#* notebook.
+More detailed descriptions can be found in the **BikeRidership.ipynb** notebook.
 
 # How to run the project?
 Clone the repository. 
