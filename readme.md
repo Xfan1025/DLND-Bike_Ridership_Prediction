@@ -1,3 +1,6 @@
-*This project is from Udacity Deep Learning Foundation Nanodegree curriculum and has been reviewed by Udacity reviewer.
+# What is this project?
+This project is from Udacity Deep Learning Foundation Nanodegree curriculum and has been reviewed by Udacity reviewer.
 
-In this project, a simple Deep Neural Network implemented using Numpy is used to do the prediction of bike rental ridership.
+# How to run the project?
+Clone the repo. Enter the project directory.
+Run `pip3 install -r requirements.txt`
