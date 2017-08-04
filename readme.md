@@ -2,9 +2,11 @@
 This project is from Udacity Deep Learning Foundation Nanodegree curriculum and has been reviewed by Udacity reviewer.
 
 # How to run the project?
-Clone the repository. Enter the project directory.
+Clone the repository. 
 
-Install the dependencies. 
+`git clone https://github.com/Xfan1025/DLND-Bike_Ridership_Prediction.git`
+
+Enter the project directory. Install the dependencies. 
 
 `pip3 install -r requirements.txt`
 
