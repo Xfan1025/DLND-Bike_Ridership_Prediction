@@ -14,5 +14,5 @@ Start the notebook server.
 
 `jupyter notebook`
 
-Click BikeRidership.ipynb
+Click *BikeRidership.ipynb*.
 
